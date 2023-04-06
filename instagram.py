@@ -40,7 +40,7 @@ def uplaod_content(content:Content):
 
 # --------------- MAIN ---------------
 client = Client()
-client.set_proxy('http://127.0.0.1:10809')
+# client.set_proxy('http://127.0.0.1:10809')
 client.login("sahabahq", "Sq@1695987")
 
 while True:
